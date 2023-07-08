@@ -6,7 +6,7 @@ ITNPAI1-Tree-Car-Classifier
 The project develops a model that can successfully distinguish between images of trees and cars. 
 ## Dataset 
 
-The Dataset consits of:
+The Dataset consists of:
 
 A) 90 Images of cars from Kerala obtained by using google Earth's Street view feature and 10 camera images sent by a Friend.
 
