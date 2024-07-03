@@ -37,8 +37,6 @@ Kerala: https://earth.google.com/web/search/kerala/@10.54457447,76.13784294,14.8
 
 ## Codes
 
-Most of the codes have been taken from tutorials and Github repositories which has been properly referenced in the Final Report. 
-
 The Dataloader consists of mounting the drive to colab, preprocessing the Images with Data augmentation techinques and creating datagenerators from the directory. 
 
 A Sequential model was used in this classification task with the help of tensorflow which the most widely used deep learning framework and has power and flexible API’s such as Keras, that make it easy to define, train, and evaluate deep learning models.
